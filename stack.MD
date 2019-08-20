@@ -63,3 +63,10 @@ network : networkManager
 **editeur** : vscode  
 **addon** : vetur  
 
+## Attribution
+**web** : vuejs  
+**interfaceGraphique** : vuejs || flutter  
+**Mobile** : flutter  
+**Performance** : C  || C++
+**MultiSystem** : Python  
+**AndroidNatif?** : Java
