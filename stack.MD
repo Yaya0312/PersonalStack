@@ -36,11 +36,11 @@ network : networkManager
 
 ## Java
 
-**editeur** : vs code  || jetbrain || eclipse  
+**editeur** : eclipse(+cours) | intelliJ IDEA  
 **profilage** : ?  
-**debuggeur** : ?  
-**code coverage** : ??  
-**assembleur** : ?  
+**debuggeur** : eclipse  
+**code coverage** : eclipse  
+**assembleur** : eclipse  
 **indentation** : checkstyle  
 **testUnitaire** : junit  
 **generationDoc** : javadoc  
