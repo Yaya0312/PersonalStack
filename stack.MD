@@ -1,3 +1,14 @@
+## Linux
+displayServer : wayland  
+initSystem : systemd  
+windowsManager : sway  
+browser : chromium  
+notfication : mako  
+shell : fish  
+terminal : alcracity  
+bar : waybar
+network : networkManager
+
 
 ## C
 
@@ -43,4 +54,12 @@
 **indentation** : ?  
 **testUnitaire** : ?  
 **Norme** : PEP8  
-**gestionaire de librairies** : pip  
+**gestionaire de librairies** : pip
+
+## Flutter
+**editeur** : androidStudio || vsCode  
+
+## VueJS
+**editeur** : vscode  
+**addon** : vetur  
+
