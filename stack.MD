@@ -6,7 +6,7 @@
 **code coverage** : ??  
 **debuggeur** : gdb (in vs code)  
 **assembleur** : cmake  
-**indentation** : untrustify
+**indentation** : untrustify  
 **generationDoc** : docxygen  
 **testUnitaire** : ?
 
