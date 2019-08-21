@@ -69,4 +69,9 @@ network : networkManager
 **Mobile** : flutter  
 **Performance** : C  || C++
 **MultiSystem** : Python  
-**AndroidNatif?** : Java
+**AndroidNatif?** : Java  
+
+## Autres
+**Gestion de version** : git (gitlab||github)
+
+
