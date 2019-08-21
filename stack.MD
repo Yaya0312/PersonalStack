@@ -1,13 +1,14 @@
 ## Linux
-displayServer : wayland  
-initSystem : systemd  
-windowsManager : sway  
-browser : chromium  
-notfication : mako  
-shell : fish  
-terminal : alcracity  
-bar : waybar
-network : networkManager
+**Distro** : archLinux | manjaro | fedora
+**displayServer** : wayland  
+**initSystem** : systemd  
+**windowsManager** : sway  
+**browser** : chromium  
+**notfication** : mako  
+**shell** : fish  
+**terminal** : alcracity  
+**bar** : waybar
+**network** : networkManager
 
 
 ## C
@@ -16,7 +17,7 @@ network : networkManager
 **profilage** : sanitizer  
 **code coverage** : ??  
 **debuggeur** : gdb (in vs code)  
-**assembleur** : cmake  
+**assembleur** : cmake(cours) || meson    
 **indentation** : untrustify  
 **generationDoc** : docxygen  
 **testUnitaire** : ?
