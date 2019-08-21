@@ -1,5 +1,5 @@
 ## Linux
-**Distro** : archLinux | manjaro | fedora
+**Distro** : archLinux | manjaro | fedora  
 **displayServer** : wayland  
 **initSystem** : systemd  
 **windowsManager** : sway  
