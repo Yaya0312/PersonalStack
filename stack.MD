@@ -12,7 +12,7 @@
 **fileManager** : ranger  
 **AutoMounts(USB && NETWORK)** :  
 **Music** : youtube-viewer  
-
+**BlueLightFilter** : redshift
 
 ## C
 
@@ -26,22 +26,22 @@
 **testUnitaire** : ?  
 
 
-## OCaml
+## OCaml (utile ??)
 
 **editeur** : vs code  
-**profilage** : ?  
+**profilage** : ??    
 **debuggeur** : utop  
-**code coverage** : ??  
+**code coverage** : bisect_ppx  
 **assembleur** : dune  
 **indentation** : merlin  
 **generationDoc** : odoc  
-**testUnitaire** : ?  
+**testUnitaire** : OUnit || alcotest  
 **gestionaire de librairies** : opam  
 
-## Java
+## Java (utile ??)
 
 **editeur** : eclipse(+cours) | intelliJ IDEA  
-**profilage** : ?  
+**profilage** : visualVM || JProfiler  
 **debuggeur** : eclipse  
 **code coverage** : eclipse  
 **assembleur** : eclipse  
@@ -50,7 +50,7 @@
 **generationDoc** : javadoc  
 
 ## Python
-**editeur** : vs code  || pycharm  
+**editeur** : vs code  || ~~pycharm~~  
 **profilage** : ?  
 **code coverage** : ??  
 **debuggeur** : ?  
@@ -61,7 +61,7 @@
 **gestionaire de librairies** : pip
 
 ## Flutter
-**editeur** : androidStudio || vsCode  
+**editeur** : androidStudio  
 
 ## VueJS
 **editeur** : vscode  
@@ -73,7 +73,6 @@
 **Mobile** : flutter  
 **Performance** : C  || C++  
 **MultiSystem** : Python  
-**AndroidNatif?** : Java  
 
 ## Autres
 **Gestion de version** : git (gitlab||github)
