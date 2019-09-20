@@ -1,14 +1,15 @@
 ## Linux
-**Distro** : archLinux | manjaro | fedora  
+**Distro** : archLinux | manjaro
 **displayServer** : wayland  
 **initSystem** : systemd  
 **windowsManager** : sway  
-**browser** : chromium  
+**browser** : chrome  
 **notfication** : mako  
 **shell** : fish  
 **terminal** : alcracity  
-**bar** : waybar
+**bar** : waybar  
 **network** : networkManager
+**fileManager** : ranger  
 
 
 ## C
@@ -20,7 +21,7 @@
 **assembleur** : cmake(cours) || meson    
 **indentation** : untrustify  
 **generationDoc** : docxygen  
-**testUnitaire** : ?
+**testUnitaire** : ?  
 
 
 ## OCaml
@@ -68,7 +69,7 @@
 **web** : vuejs  
 **interfaceGraphique** : vuejs || flutter  
 **Mobile** : flutter  
-**Performance** : C  || C++
+**Performance** : C  || C++  
 **MultiSystem** : Python  
 **AndroidNatif?** : Java  
 
