@@ -10,6 +10,8 @@
 **bar** : waybar  
 **network** : networkManager  
 **fileManager** : ranger  
+**AutoMounts(USB && NETWORK)** :  
+**Music** : youtube-viewer  
 
 
 ## C
