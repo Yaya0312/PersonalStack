@@ -1,5 +1,5 @@
 ## Linux
-**Distro** : archLinux | manjaro
+**Distro** : archLinux | manjaro  
 **displayServer** : wayland  
 **initSystem** : systemd  
 **windowsManager** : sway  
@@ -8,7 +8,7 @@
 **shell** : fish  
 **terminal** : alcracity  
 **bar** : waybar  
-**network** : networkManager
+**network** : networkManager  
 **fileManager** : ranger  
 
 
