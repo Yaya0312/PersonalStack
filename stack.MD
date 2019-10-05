@@ -1,5 +1,5 @@
 ## Linux
-**Distro** : archLinux
+**Distro** : archLinux  
 **displayServer** : wayland  
 **initSystem** : systemd  
 **windowsManager** : sway  
