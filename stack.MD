@@ -29,7 +29,7 @@
 ## OCaml (utile ??)
 
 **editeur** : vs code  
-**profilage** : ??    
+**profilage** : ocamlprof  
 **debuggeur** : utop  
 **code coverage** : bisect_ppx  
 **assembleur** : dune  
@@ -51,14 +51,15 @@
 
 ## Python
 **editeur** : vs code  || ~~pycharm~~  
-**profilage** : ?  
-**code coverage** : ??  
-**debuggeur** : ?  
-**assembleur** : ?  
-**indentation** : ?  
-**testUnitaire** : ?  
+**profilage** : cProfile  
+**code coverage** : pytest-cov || coverage 
+**debuggeur** : pdb (in vs code)  
+**assembleur** :   aucun  
+**indentation** : pylint  
+**testUnitaire** : pytest  
 **Norme** : PEP8  
 **gestionaire de librairies** : pip
+**typage** : pyright  
 
 ## Flutter
 **editeur** : androidStudio  
