@@ -1,5 +1,5 @@
 ## Linux
-**Distro** : archLinux | manjaro  
+**Distro** : archLinux
 **displayServer** : wayland  
 **initSystem** : systemd  
 **windowsManager** : sway  
@@ -20,7 +20,7 @@
 **profilage** : sanitizer  
 **code coverage** : ??  
 **debuggeur** : gdb (in vs code)  
-**assembleur** : cmake(cours) || meson    
+**assembleur** :  meson    
 **indentation** : untrustify  
 **generationDoc** : docxygen  
 **testUnitaire** : ?  
