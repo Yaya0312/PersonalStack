@@ -52,13 +52,13 @@
 ## Python
 **editeur** : vs code  || ~~pycharm~~  
 **profilage** : cProfile  
-**code coverage** : pytest-cov || coverage 
-**debuggeur** : pdb (in vs code)  
+**code coverage** : pytest-cov || coverage  
+**debuggeur** : pdb (in vs code)   
 **assembleur** :   aucun  
 **indentation** : pylint  
 **testUnitaire** : pytest  
 **Norme** : PEP8  
-**gestionaire de librairies** : pip
+**gestionaire de librairies** : pip  
 **typage** : pyright  
 
 ## Flutter
