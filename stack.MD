@@ -12,7 +12,8 @@
 **fileManager** : ranger  
 **AutoMounts(USB && NETWORK)** :  
 **Music** : youtube-viewer  
-**BlueLightFilter** : redshift
+**BlueLightFilter** : redshift  
+**GUi Sound** : pavucontrol  
 
 ## C
 
