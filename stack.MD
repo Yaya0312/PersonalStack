@@ -13,7 +13,9 @@
 **AutoMounts(USB && NETWORK)** :  
 **Music** : youtube-viewer  
 **BlueLightFilter** : redshift  
-**GUi Sound** : pavucontrol  
+**driver sound** : alsa  
+**sound server** : pulseaudio  
+**GUi Sound** : pavucontrol
 
 ## C
 
@@ -24,7 +26,7 @@
 **assembleur** :  meson    
 **indentation** : untrustify  
 **generationDoc** : docxygen  
-**testUnitaire** : ?  
+**testUnitaire** : ?  check(voir rofi)
 
 
 ## OCaml (utile ??)
