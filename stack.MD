@@ -20,15 +20,16 @@
 
 ## C
 
+**compilateur** : gcc  
 **editeur** : vs code  
-**profilage** : sanitizer  
-**code coverage** : ??  
+**profilage** : sanitizer || gprof  
+**code coverage** : Gcov  
 **debuggeur** : gdb (in vs code)  
-**assembleur** :  meson    
+**assembleur** :  meson || ?makefile || ?cmake   
 **indentation** : untrustify  
 **generationDoc** : docxygen  
-**testUnitaire** : ?  check(voir rofi)
-
+**testUnitaire** : ?  check(voir rofi)  || CMocka || CTEST  
+**test memoire** : address sanitizer  
 
 ## OCaml (utile ??)
 
