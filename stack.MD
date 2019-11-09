@@ -79,6 +79,8 @@
 **MultiSystem** : Python  
 
 ## Autres
-**Gestion de version** : git (gitlab||github)
+**Gestion de version** : git (gitlab||github)  
+**Analyse qualité du code** : lgtm || deepsource || codacy  
+
 
 
