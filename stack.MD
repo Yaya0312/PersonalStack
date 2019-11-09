@@ -80,7 +80,7 @@
 
 ## Autres
 **Gestion de version** : git (gitlab||github)  
-**Analyse qualité du code** : lgtm || deepsource || codacy  
+**Analyse qualité du code** : lgtm || deepsource || codacy || houndci
 
 
 
