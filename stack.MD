@@ -16,6 +16,7 @@
 **driver sound** : alsa  
 **sound server** : pulseaudio  
 **GUi Sound** : pavucontrol
+**outils** : fzf && pamac && tlp && powertop
 
 ## C
 
@@ -80,7 +81,6 @@
 
 ## Autres
 **Gestion de version** : git (gitlab||github)  
-**Analyse qualité du code** : lgtm || deepsource || codacy || houndci
-
-
+**Analyse qualité du code** : lgtm || deepsource || codacy || houndci  
+**Plugin VS CODE** :   -C/C++ || Gitlens || Ocaml and Reason IDE  
 
