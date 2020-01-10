@@ -1,14 +1,14 @@
 ## Linux
 **Distro** : archLinux  
-**displayServer** : wayland  ?
+**displayServer** : wayland  ?  
 **initSystem** : systemd  
-**windowsManager** : sway  ?
+**windowsManager** : sway  ?  
 **loginmanager** : mingetty  
 **browser** : chrome  
 **notfication** : mako  
 **shell** : fish  
 **terminal** : alcracity  
-**bar** : waybar  ?
+**bar** : waybar  ?  
 **network** : networkManager  
 **fileManager** : ranger  
 **AutoMounts(USB && NETWORK)** :  
