@@ -41,8 +41,9 @@
 **assembleur** : dune  
 **indentation** : merlin  
 **generationDoc** : odoc  
-**testUnitaire** : OUnit || alcotest  
+**testUnitaire** : ~~OUnit~~ || alcotest  
 **gestionaire de librairies** : opam  
+**Outils** : ocp-indent,  
 
 ## Java (utile ??)
 
