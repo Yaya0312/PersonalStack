@@ -43,7 +43,7 @@
 **generationDoc** : odoc  
 **testUnitaire** : ~~OUnit~~ || alcotest  
 **gestionaire de librairies** : opam  
-**Outils** : ocp-indent,  
+**Outils** : ocp-indent, ocamlformat  
 
 ## Java (utile ??)
 
