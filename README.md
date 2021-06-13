@@ -1,14 +1,14 @@
 ## Linux
 **Distro** : archLinux  
-**displayServer** : wayland  ?  
+**displayServer** : wayland    
 **initSystem** : systemd  
-**windowsManager** : sway  ?  
+**windowsManager** : sway  
 **loginmanager** : mingetty  
 **browser** : chrome  
 **notfication** : mako  
 **shell** : fish  
 **terminal** : alcracity  
-**bar** : waybar  ?  
+**bar** : waybar  
 **network** : networkManager  
 **fileManager** : ranger  
 **AutoMounts(USB && NETWORK)** :  
@@ -16,16 +16,16 @@
 **BlueLightFilter** : redshift  
 **driver sound** : alsa  
 **sound server** : pulseaudio  
-**GUi Sound** : pavucontrol
+**GUi Sound** : pavucontrol  
 **outils** : fzf && pamac && tlp && powertop
 
 ## C
 
 **compilateur** : gcc  
-**editeur** : vs code  
+**editeur** : intelliJ IDEA
 **profilage** : sanitizer || gprof  
 **code coverage** : Gcov  
-**debuggeur** : gdb (in vs code)  
+**debuggeur** : gdb
 **assembleur** :  meson || ?makefile || ?cmake   
 **indentation** : untrustify  
 **generationDoc** : docxygen  
@@ -47,17 +47,17 @@
 
 ## Java (utile ??)
 
-**editeur** : eclipse(+cours) | intelliJ IDEA  
+**editeur** : intelliJ IDEA  
 **profilage** : visualVM || JProfiler  
-**debuggeur** : eclipse  
-**code coverage** : eclipse  
-**assembleur** : eclipse  
-**indentation** : checkstyle  
+**debuggeur** : intelliJ IDEA    
+**code coverage** : intelliJ IDEA    
+**assembleur** : graddle
+**indentation** : sonarlint  
 **testUnitaire** : junit  
 **generationDoc** : javadoc  
 
 ## Python
-**editeur** : vs code  || ~~pycharm~~  
+**editeur** : pycharm  
 **profilage** : cProfile  
 **code coverage** : pytest-cov || coverage  
 **debuggeur** : pdb (in vs code)   
@@ -71,13 +71,9 @@
 ## Flutter
 **editeur** : androidStudio  
 
-## VueJS
-**editeur** : vscode  
-**addon** : vetur  
-
 ## Attribution
-**web** : vuejs  
-**interfaceGraphique** : vuejs || flutter  
+**web** : sveltejs  
+**interfaceGraphique** : sveltejs || flutter  
 **Mobile** : flutter  
 **Performance** : C  || C++  
 **MultiSystem** : Python  
@@ -85,5 +81,3 @@
 ## Autres
 **Gestion de version** : git (gitlab||github)  
 **Analyse qualité du code** : lgtm || deepsource || codacy || houndci  
-**Plugin VS CODE** :   -C/C++ || Gitlens || Ocaml and Reason IDE  
-
