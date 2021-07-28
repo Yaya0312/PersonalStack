@@ -32,7 +32,7 @@
 **testUnitaire** : ?  check(voir rofi)  || CMocka || CTEST  
 **test memoire** : address sanitizer  
 
-## OCaml (utile ??)
+## OCaml
 
 **editeur** : vs code  
 **profilage** : ocamlprof  
@@ -45,7 +45,7 @@
 **gestionaire de librairies** : opam  
 **Outils** : ocp-indent, ocamlformat  
 
-## Java (utile ??)
+## Java
 
 **editeur** : intelliJ IDEA  
 **profilage** : visualVM || JProfiler  
