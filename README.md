@@ -75,7 +75,7 @@
 **web** : sveltejs  
 **interfaceGraphique** : sveltejs || flutter  
 **Mobile** : flutter  
-**Performance** : C  || C++  
+**Performance** : C  || C++ ||Rust  
 **MultiSystem** : Python  
 
 ## Autres
